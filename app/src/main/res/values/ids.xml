@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id">email</item>
+    <item name="pass" type="id">pass</item>
+    <item name="cpass" type="id">cpass</item>
+    <item name="register" type="id">register</item>
+    <item name="editText" type="id">editText</item>
+    <item name="editText2" type="id">editText2</item>
+    <item name="lv_customerList" type="id">lv_customerList</item>
+</resources>

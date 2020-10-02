@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TuckItInDeliveries</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="Registered">register</string>
+    <string name="todo">todo</string>
+</resources>
