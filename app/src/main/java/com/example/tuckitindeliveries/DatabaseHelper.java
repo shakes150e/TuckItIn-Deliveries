@@ -1,5 +1,10 @@
 package com.example.tuckitindeliveries;
 
+/* Sanele Ngwenya
+    216019699
+    PT
+ */
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

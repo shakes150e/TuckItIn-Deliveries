@@ -1,5 +1,10 @@
 package com.example.tuckitindeliveries;
 
+/* Sanele Ngwenya
+    216019699
+    PT
+ */
+
 public class CustomerModel {
 
     private String name;
